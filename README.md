@@ -1,29 +1,46 @@
-# 👋 Hi there, I'm Chaitanya!  
+# 👋 Hi, I'm Chaitanya
 
-🚀 **ML/AI Enthusiast** | 💻 **Full Stack Developer** | 📱 **Mobile App Creator** | 📊 **Data Visualization with Power BI**  
-
----
-
-### 🌟 About Me  
-I'm passionate about exploring the exciting world of Machine Learning and AI. With experience in full-stack web development, mobile app creation, and data visualization using Power BI, I love solving problems and building smart solutions that make an impact.  
+💼 Finance Data Scientist | 🧠 AI & ML Researcher | 💡 Founder @ WayWise
 
 ---
 
-### 💻 Technologies & Tools  
-- **Programming Languages**: Python, JavaScript, etc.  
-- **Frameworks**: Flask, React, Django, etc.  
-- **Mobile Development**: React Native, Flutter.  
-- **Machine Learning Tools**: NumPy, Pandas, TensorFlow, Scikit-learn.  
-- **Data Visualization**: Power BI, Matplotlib, Seaborn.  
+## 🧩 About Me
+
+I'm a data scientist passionate about leveraging machine learning and deep learning to solve problems in finance. As the founder of [WayWise](https://waywise.co.uk), I focus on building AI-powered trading strategies that turn research into results.
+
+My work spans across:
+- Quantitative research & trading systems
+- Time series forecasting
+- NLP for financial news & sentiment
+- Building and deploying data-driven solutions
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced Machine Learning Algorithms  
-- Backend Optimization and Scalability  
+## 🛠 Technologies & Tools
+
+**Languages**: Python, SQL, JavaScript  
+**ML/DL**: Scikit-learn, TensorFlow, PyTorch, XGBoost  
+**Data**: Pandas, NumPy, yFinance, TA-Lib  
+**Visualization**: Matplotlib, Seaborn, Plotly  
+**Web**: Flask, Streamlit, React (basic)  
+**Tools**: Git, Jupyter, Firebase, Vercel, Docker  
 
 ---
 
-### 📫 Let's Connect!  
-- Email: [chaitanya@waywise.co.uk](mailto:chaitanya@waywise.co.uk)  
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chaitanya-sharma-b649a6158/)  
+## 📂 Featured Projects
+
+- **📰 News Sentiment Strategy with LSTM** – Predicting market moves using NLP & deep learning  
+- **📈 S&P500 Forecasting with ARIMA** – Classical time series meets evaluation-driven design  
+- **⚖️ Market Neutral Trading with Kalman Filters** – A statistical arbitrage approach using Python
+
+> Visit [waywise.co.uk](https://waywise.co.uk) to explore the full research showcase.
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [chaitanya4598@gmail.com](mailto:chaitanya4598@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/chaitanya221](www.linkedin.com/in/chaitanya221)  
+🌐 Website: [waywise.co.uk](https://waywise.co.uk)
+
+---
